@@ -1,7 +1,7 @@
 # ¡Hola, soy BrandonSanchez Ingeniero de Sistemas! 👋
 
 <p align="center">
-  <img src=""https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="GIF de Bienvenida" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de Bienvenida" />
 </p>
 
 ## Bienvenido
