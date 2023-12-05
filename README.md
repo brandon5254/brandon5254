@@ -59,6 +59,10 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/react/react-original.svg" alt="React" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angularjs" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" />
+
+
  
 </p>
 
@@ -88,7 +92,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" />
   <img src="https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png" alt="Rider" width="40" />
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="Rider" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Rider" width="40" />
 
 
  
