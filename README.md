@@ -44,9 +44,8 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"alt="dotnet" width="40" />
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"alt="C#" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
 </p>
 
 
