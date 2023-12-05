@@ -11,7 +11,7 @@
 ## Sobre mí
 
 - 🎓 Estudio ingeniería de sistemas en la Universidad de San Buenaventura, en Cali, Colombia
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo tecnologico de chatbots e inteligencia artificial en la web.
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo tecnologico de ciencia de datos y  inteligencia artificial en la web.
 - 🤔 Explorar nuevas tecnologías y desarrollar soluciones de software.
 - 🌱 Estoy aprendiendo tecnologias para inteligencia artificial, modelos y mejores practicas para escribir codigo limpio ademas de que estoy terminando mi carrera profesional como Ingeniero de Sistemas.
 - 💬 Puedes preguntarme sobre de tu interes respecto a tecnologias de la informacion o si tienes algun proyecto en mente con gusto te doy una accesoria.
@@ -43,6 +43,10 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dotnetcore/dotnetcore-original.svg"alt="dotnet" width="40" />
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg"alt="C#" width="40" />
 </p>
 
 ### Frontend
@@ -83,5 +87,10 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" />
   <img src="https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png" alt="Rider" width="40" />
+  
+  <img src=" https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pycharm/pycharm-plain-wordmark.svg" alt="Rider" width="40" />
+
+
+ 
 </p>
 
