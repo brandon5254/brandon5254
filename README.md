@@ -85,6 +85,11 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" width="40" />
 </p>
 
+### Ciencia de datos
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" />
+</p>
+
 ### IDE 
 
 <p align="left">
@@ -93,6 +98,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png" alt="Rider" width="40" />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Rider" width="40" />
+  
 
 
  
